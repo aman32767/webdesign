@@ -1,0 +1,50 @@
+.social a{
+    font-size: 5em;
+    padding: 5rem;
+
+}
+.social{
+    margin-bottom: 2rem;
+}
+.footer h6{
+    
+    color: rgb(216, 231, 231);
+    
+    font-size: 1rem
+}
+.con{
+    margin-bottom: 2rem;
+    border-bottom:0.1em solid black
+}
+
+#bar {
+  margin-bottom: 2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  
+}
+.carousel {
+  margin-bottom: 2rem;
+  
+}
+.call {
+  text-align: center;
+}
+.add {
+  margin-top: 10rem;
+}
+.add h1 {
+  color black;
+}
+.add h4 {
+  color: gray;
+}
+.jumbotron{
+    margin-top: 3rem;
+}
+.team{
+    text-align: center;
+    border-bottom: 0.2rem solid black;
+    margin-bottom: 1rem
+}
+
